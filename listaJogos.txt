@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. Elden Ring
 2. God of War
 3. Hades
@@ -10,3 +11,8 @@
 
 
 
+=======
+dead by daylight
+call of duty
+valorant
+>>>>>>> c30204d11546498fce8a4a375fcbd2d16d0853b8
